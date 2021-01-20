@@ -1,0 +1,2 @@
+language = "csharp"
+run = "mcs -out:main.exe 'Pasta01/program-01.cs'; mono main.exe"
